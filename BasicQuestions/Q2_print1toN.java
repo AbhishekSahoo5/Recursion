@@ -13,6 +13,7 @@ public class Q2_print1toN {
         int n=5;
         prin1Ton(n);
     
+        
     }
-    
+
 }
